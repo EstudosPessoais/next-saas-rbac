@@ -1,5 +1,4 @@
 import { ChevronsUpDown, PlusCircle } from 'lucide-react'
-import { cookies } from 'next/headers'
 import Link from 'next/link'
 
 import { getCurrentOrg } from '@/auth/auth'
